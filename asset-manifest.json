@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Testimonials-app/static/css/main.1160e5b9.chunk.css",
+    "main.js": "/React-Testimonials-app/static/js/main.845102ba.chunk.js",
+    "main.js.map": "/React-Testimonials-app/static/js/main.845102ba.chunk.js.map",
+    "runtime-main.js": "/React-Testimonials-app/static/js/runtime-main.3d322084.js",
+    "runtime-main.js.map": "/React-Testimonials-app/static/js/runtime-main.3d322084.js.map",
+    "static/css/2.0e9d3e54.chunk.css": "/React-Testimonials-app/static/css/2.0e9d3e54.chunk.css",
+    "static/js/2.259d5216.chunk.js": "/React-Testimonials-app/static/js/2.259d5216.chunk.js",
+    "static/js/2.259d5216.chunk.js.map": "/React-Testimonials-app/static/js/2.259d5216.chunk.js.map",
+    "static/js/3.ddfa2fd3.chunk.js": "/React-Testimonials-app/static/js/3.ddfa2fd3.chunk.js",
+    "static/js/3.ddfa2fd3.chunk.js.map": "/React-Testimonials-app/static/js/3.ddfa2fd3.chunk.js.map",
+    "index.html": "/React-Testimonials-app/index.html",
+    "static/css/2.0e9d3e54.chunk.css.map": "/React-Testimonials-app/static/css/2.0e9d3e54.chunk.css.map",
+    "static/css/main.1160e5b9.chunk.css.map": "/React-Testimonials-app/static/css/main.1160e5b9.chunk.css.map",
+    "static/js/2.259d5216.chunk.js.LICENSE.txt": "/React-Testimonials-app/static/js/2.259d5216.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/React-Testimonials-app/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d322084.js",
+    "static/css/2.0e9d3e54.chunk.css",
+    "static/js/2.259d5216.chunk.js",
+    "static/css/main.1160e5b9.chunk.css",
+    "static/js/main.845102ba.chunk.js"
+  ]
+}
